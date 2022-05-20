@@ -1,1 +1,1 @@
-Analysis of twitter data using Racket
+This is a program developed in Racket , using Scheme Language , it is used to handle the Sentimental Analysis of Uganda twitter data, it has a set of abstractions that are developed to be able to analyze the moods of people in Uganda.
